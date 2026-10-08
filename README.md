@@ -62,7 +62,9 @@ Perguntas fora do tema devem ser recusadas educadamente.
 
 A interface foi testada com diferentes temperaturas, permitindo comparar as respostas geradas pelo Gemini.
 
-![Interface Gradio](prints/gradio.png)
+![Interface Gradio - Print 1](Screenshot%202026-10-07%20215942.png)
+
+![Interface Gradio - Print 2](Screenshot%202026-10-07%20215946.png)
 
 ## Notebook
 
